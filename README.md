@@ -35,11 +35,11 @@ The network topology is based on a combination of star and extended star topolog
 
 1\. Router:
 
-`   `- Model: Cisco ISR 4000 Series
+`- Model: Cisco ISR 4000 Series
 
-`   `- Specifications: 2 vCPUs, 4 GB RAM
+`- Specifications: 2 vCPUs, 4 GB RAM
 
-`   `- Description: The router serves as the central point of communication between different network segments. It facilitates inter-VLAN routing and ensures seamless data flow.
+`- Description: The router serves as the central point of communication between different network segments. It facilitates inter-VLAN routing and ensures seamless data flow.
 
 2\. Switches:
 
